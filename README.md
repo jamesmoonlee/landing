@@ -1,6 +1,4 @@
-[![N|Solid](https://www.viet-visa.com/logos/icon128x128.png)](https://www.viet-visa.com/)
-
-# LANDING PAGE SMALL PROJECT
+# [![N|Solid](https://www.viet-visa.com/logos/icon36x36.png)](https://www.viet-visa.com/)| LANDING PAGE PROJECT
 
 [![N|Solid](https://jamesmoonlee.github.io/landing/jslibme/demo.png)](https://www.viet-visa.com/)
 
