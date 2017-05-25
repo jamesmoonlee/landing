@@ -2,7 +2,7 @@
 
 # LANDING PAGE SMALL PROJECT
 
-[![N|Solid](https://www.viet-visa.com/jslibme/demo.png)](https://www.viet-visa.com/)
+[![N|Solid](https://jamesmoonlee.github.io/landing/jslibme/demo.png)](https://www.viet-visa.com/)
 
 ## Features
 * Small Chat integration
