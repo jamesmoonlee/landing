@@ -11,7 +11,3 @@
 https://jamesmoonlee.github.io/vietnam-visa-on-arrival
 
 #### Related Document (N/A)
-
-
-### Authors
-**James - Minh** - *Initial work* - [github](https://github.com/jamesmoonlee)
